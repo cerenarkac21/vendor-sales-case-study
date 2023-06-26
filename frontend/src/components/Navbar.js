@@ -6,7 +6,7 @@ const Navbar = () => {
             <div className = "container">
                 <Link to = "/">
                     <h1>
-                        Lonca Case Study
+                        Vendor Sales Case Study
                     </h1>
                 </Link>
             </div>
