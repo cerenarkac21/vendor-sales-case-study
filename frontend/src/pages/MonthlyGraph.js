@@ -112,7 +112,7 @@ const MonthlyGraph = () => {
     labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Agu", "Sep", "Oct", "Nov", "Dec"],
     datasets: [
         {
-            label: "Monthly sales from Lonca",
+            label: "Monthly sales from us",
             data: GainsFromAllMonths,
             backgroundColor: "#0056b3",
             borderColor: "white",
